@@ -1,0 +1,4 @@
+For: Es el bucle que permite evaluar las expresiones hasta que halle el valor buscado.
+&&: Es el operador lógico que representa “y”.
+||: Es el operador lógico que representa “o”.
+!: Operador “NOT” donde se entiende que se pregunta por lo contrario a la expresión.
